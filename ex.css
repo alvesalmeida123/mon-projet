@@ -1,0 +1,83 @@
+.bg
+{
+width: 9vh;
+}
+.vrai{
+    background-image: url(./IMAGES/fond_s.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.c1{
+ text-align: center;
+ margin-top:20% ;
+}
+.cc1{
+    text-align: center;
+    margin-top: 5%;
+}
+.faux{
+    background-image: url(./IMAGES/apropos2.jpeg);
+    height: 55vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.im{
+    background-image: url(./IMAGES/im4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.im:hover{
+    background-image: url(./IMAGES/ICONE.jpeg);
+}
+.elle{
+    background-image: url(./IMAGES/fond_s.jpg);
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.v1{
+    
+    font-family: 'Arial Black',Arial, sans-serif;
+    font-size: 8vh;
+    color: rgb(226, 247, 197);
+    text-shadow: 5px 5px 2px rgba(0, 0, 0, 0.6);
+}
+.chat{
+    box-shadow: 19px 19px 14px rgb(96, 97, 101);
+}
+.v2{
+    font-family: 'Courier New', Courier;
+    font-size: 5vh;
+    color:#fff;
+}
+.t{
+    color:  rgb(226, 247, 197);
+}
+.t:hover{
+    color:  rgb(155, 171, 131);
+}
+.te{
+  background-color: #fff;
+}
+.st:hover{
+    background-color: rgb(173, 173, 173);
+}
+.sec{
+    background-color: rgba(220, 231, 245, 0.763);
+}
+.case{
+    background-color: #fff;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    padding: 4vh;
+}
